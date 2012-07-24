@@ -1,0 +1,1000 @@
+ 1235  sudo -i
+ 1236  exit
+ 1237  ruby -v
+ 1238  rails s
+ 1239  rails server
+ 1240  apt-get install nodejs
+ 1241  apt-get remove libgtk
+ 1242  apt-get install nodejs
+ 1243  apt-get remove libgtkhtml3.14-19 
+ 1244  apt-get remove liboil0.3 
+ 1245  apt-get remove liboil0.3:i386
+ 1246  rails server
+ 1247  rvm update --system
+ 1248  gem update --system
+ 1249  cd /usr/local/lib/site_ruby/
+ 1250  ls
+ 1251  cd ..
+ 1252  rvm use 1.8.7
+ 1253  rails server
+ 1254  gem install rails
+ 1255  cd /home/sanjay/Ror/
+ 1256  ls
+ 1257  rails new site
+ 1258  rvm uninstall 1.8.7
+ 1259  rails new site
+ 1260  ruby -v
+ 1261  gem install railties
+ 1262  rails new site
+ 1263  gem uninstall rails
+ 1264  gem list
+ 1265  aptitude install build-essential openssl libreadline6 libreadline6-dev zlib1g zlib1g-dev zlib 
+ 1266  libssl-dev libyaml-dev libsqlite3-0 libsqlite3-dev sqlite3 libxml2-dev libxslt-dev autoconf libc6-dev 
+ 1267  ncurses-dev automake libtool bison
+ 1268  aptitude install build-essential openssl libreadline6 libreadline6-dev zlib1g zlib1g-dev zlib 
+ 1269  libssl-dev libyaml-dev libsqlite3-0 libsqlite3-dev sqlite3 libxml2-dev libxslt-dev autoconf libc6-dev 
+ 1270  ncurses-dev automake libtool bison
+ 1271  curl -L https://get.rvm.io | bash -s stable --ruby
+ 1272  ls
+ 1273  rm -r site
+ 1274  rails new site
+ 1275  cd site
+ 1276  ls
+ 1277  vi Gemfile
+ 1278  bundle install
+ 1279  rails s
+ 1280  cd ..
+ 1281  rm -r site
+ 1282  rvm install 1.9.3
+ 1283  gem install rails
+ 1284  gem list
+ 1285  ruby -v
+ 1286  rails new site
+ 1287  cd site
+ 1288  rails s
+ 1289  bundle install
+ 1290  which ruby
+ 1291  which bundle
+ 1292  gem list
+ 1293  which bundle
+ 1294  gem install bundle
+ 1295  which bundle
+ 1296  locate bundle
+ 1297  which bundle
+ 1298  cd /usr/share/ruby-rvm/gems
+ 1299  ls
+ 1300  rvm uninstall 1.8.7
+ 1301  rm -r ruby-1.8*
+ 1302  which bundle
+ 1303  cd /home/sanjay/Ror/
+ 1304  ls
+ 1305  rm -r site
+ 1306  rails new site
+ 1307  gem install bundle
+ 1308  gem install railties
+ 1309  ls
+ 1310  rails new site
+ 1311  apt-get remove ruby1.8
+ 1312  rails new site
+ 1313  apt-get install ruby1.9.3
+ 1314  apt-get autoremove
+ 1315  which ruby
+ 1316  which bundle
+ 1317  ls
+ 1318  rails new site
+ 1319  apt-get install rails
+ 1320  rails new site
+ 1321  rvm 1.9.3
+ 1322  bash < <(curl -s https://rvm.beginrescueend.com/install/rvm)
+ 1323  rvm
+ 1324  rvm note
+ 1325  rvm notes
+ 1326  echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"' >> ~/.bashrc
+ 1327  . ~/.bashrc
+ 1328  apt-get install aptitude
+ 1329  aptitude install build-essential openssl libreadline6 libreadline6-dev zlib1g zlib1g-dev zlib 
+ 1330  rvm install 1.9.3
+ 1331  aptitude install build-essential git-core curl
+ 1332  bash < <(curl -s https://rvm.beginrescueend.com/install/rvm)
+ 1333  rvm install 1.9.3
+ 1334  curl -L https://get.rvm.io | bash -s stable --ruby
+ 1335  which ruby
+ 1336  which bundle
+ 1337  rails new site1
+ 1338  apt-get autoremove rails
+ 1339  rails
+ 1340  curl -L https://get.rvm.io | bash -s stable --rails
+ 1341  rvm install rails
+ 1342  gem install rails
+ 1343  aptitude install build-essential openssl libreadline6 libreadline6-dev zlib1g zlib1g-dev zlib 
+ 1344  rvm install rails
+ 1345  gem install rails
+ 1346  apt-get autoremove ruby
+ 1347  apt-get autoremove ruby1.9
+ 1348  apt-get autoremove rails
+ 1349  apt-get autoremove rvm
+ 1350  ruby -v
+ 1351  apt-get autoremove ruby1.9.3
+ 1352  apt-get autoremove ruby1.9.3p194
+ 1353  which ruby
+ 1354  which bundle
+ 1355  apt-get autoremove bundle
+ 1356  history
+ 1357  apt-get autoremove ruby1.9.3
+ 1358  gem uninstall 1.9.3
+ 1359  ruby -v
+ 1360  ruby -e 'puts $:'
+ 1361  which gem
+ 1362  cd /usr/share
+ 1363  ls
+ 1364  rm -r ruby-rvm/
+ 1365  which ruby
+ 1366  locate ruby
+ 1367  which ruby
+ 1368  ruby -v
+ 1369  exit
+ 1370  cd /home/sanjay/Ror/
+ 1371  ruby -v
+ 1372  rails s
+ 1373  rvm use 1.8.7
+ 1374  rails s
+ 1375  gem list
+ 1376  gem install railties
+ 1377  gem list
+ 1378  ruby -v
+ 1379  ruby use 1.9.3
+ 1380  rails s
+ 1381  cd site
+ 1382  rails s
+ 1383  cd ..
+ 1384  cd site
+ 1385  rails s
+ 1386  ruby -v
+ 1387  rvm use 1.9.3
+ 1388  cd ..
+ 1389  rm -r site
+ 1390  rails new site
+ 1391  ls
+ 1392  rm -r site
+ 1393  ls
+ 1394  rm -r site
+ 1395  ruby -v
+ 1396  rvm use 1.8.7
+ 1397  ruby -v
+ 1398  gem uninstall rails
+ 1399  cd /usr/bin
+ 1400  rm -r ruby
+ 1401  ls
+ 1402  vi /root/.bashrc
+ 1403  . ~/.bashrc
+ 1404  cd ..
+ 1405  cd /bin
+ 1406  cd bin
+ 1407  rm -f /usr/bin/ruby
+ 1408  rm -f /usr/bin/ruby1.8
+ 1409  rm -r /usr/lib/ruby/
+ 1410  rm -rf /usr/lib/ruby
+ 1411  rm -rf /usr/local/lib/ruby
+ 1412  apt-get update
+ 1413  apt-get install build-essential git-core curl libmysqlclient16-dev nodejs
+ 1414  bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
+ 1415  umask g+w
+ 1416  source /etc/profile.d/rvm.sh
+ 1417  apt-get upgrade
+ 1418  apt-get update
+ 1419  rvm requirements
+ 1420  apt-get install build-essential openssl libreadline6 libreadline6-dev curl git-core zlib1g zlib1g-dev libssl-dev libyaml-dev libsqlite3-0 libsqlite3-dev sqlite3 libxml2-dev libxslt-dev autoconf libc6-dev ncurses-dev automake libtool bison subversion
+ 1421  add-apt-repository ppa:gnome3-team/gnome3
+ 1422  apt-get update
+ 1423  apt-get install gnome-shell
+ 1424  reboot
+ 1425  apt-get autoremove gnome-shell
+ 1426  apt-get install gnome-shell
+ 1427  add-apt-repository ppa:tista/gdm-testing
+ 1428  apt-get update
+ 1429  apt-get install gdm  libgdmgreeter1 libgdmsimplegreeter1 gir1.2-gdmgreeter-1.0
+ 1430  shutdown -h now
+ 1431  start networking
+ 1432  ping yahoo.com
+ 1433  apt-get install gdm
+ 1434  reboot
+ 1435  start networking
+ 1436  apt-get autoremove gdm
+ 1437  reboot
+ 1438  cd /etc
+ 1439  ls
+ 1440  cd cdrom
+ 1441  fstab
+ 1442  vi fstab
+ 1443  mount cdrom /etc/media
+ 1444  mkdir media
+ 1445  mount cdrom /etc/media
+ 1446  mount /dev/cdrom /etc/media
+ 1447  mount /dev/sdb1 /etc/media
+ 1448  mount -t iso9660 -o -ro /dev/cdrom /etc/media
+ 1449  cd /etc/media/
+ 1450  ls
+ 1451  mount -t iso9660 -ro /dev/cdrom /etc/media
+ 1452  mount -t /dev/cdrom /etc/media
+ 1453  mount -t iso9660 /dev/cdrom /etc/media
+ 1454  ls
+ 1455  ls -al
+ 1456  umount /dev/cdrom
+ 1457  ls
+ 1458  mdm
+ 1459  mdmsetup
+ 1460  dmsetup
+ 1461  apt-install autoremove lightdm
+ 1462  apt-get autoremove lightdm
+ 1463  reboot
+ 1464  startx
+ 1465  apt-get autoremove lightdm
+ 1466  apt-get install lightdm lightdm-greeter-example-gtk
+ 1467  lightdm --test-mode
+ 1468  dpkg-reconfigure lightdm
+ 1469  reboot
+ 1470  cd /media/cdrom
+ 1471  cd /etc/media
+ 1472  ls
+ 1473  rm media
+ 1474  cd ..
+ 1475  rm media
+ 1476  rm -r media
+ 1477  cd /media
+ 1478  ls
+ 1479  cd VBOXADDITIONS_4.1.18_78361/
+ 1480  ls
+ 1481  ./VBoxLinuxAdditions.run 
+ 1482  cd etc/X11
+ 1483  cd /etc/X11/
+ 1484  ls
+ 1485  vi default-display-manager 
+ 1486  reboot
+ 1487  lightdm --test-mode
+ 1488  cd /etc/apache2
+ 1489  ls
+ 1490  gedit apache2.conf 
+ 1491  cd /var/ww
+ 1492  cd /var/www
+ 1493  ls
+ 1494  vi index.html 
+ 1495  ls
+ 1496  cd /etc/apache2/
+ 1497  ls
+ 1498  vi httpd.conf 
+ 1499  cd mods-available/
+ 1500  ls
+ 1501  cd ..
+ 1502  cd mods-enabled/
+ 1503  ls
+ 1504  vi dav_svn.conf
+ 1505  cd ..
+ 1506  cd sites-available/
+ 1507  ls
+ 1508  vi site 
+ 1509  a2ensite site
+ 1510  service apache2 load
+ 1511  service apache2 reload
+ 1512  service apache2 restart
+ 1513  cd ..
+ 1514  ls
+ 1515  vi httpd.conf 
+ 1516  /usr/local/apache2/bin/httpd -S
+ 1517  /etc/apache2/bin/httpd -S
+ 1518  /etc/apache2/httpd -S
+ 1519  ls
+ 1520  which httpd
+ 1521  whereis httpd
+ 1522  service apache2 reload
+ 1523  vi httpd.conf 
+ 1524  service apache2 reload
+ 1525  service apache2 restart
+ 1526  vi httpd.conf 
+ 1527  service apache2 reload
+ 1528  service apache2 restart
+ 1529  vi httpd.conf 
+ 1530  service apache2 reload
+ 1531  vi httpd.conf 
+ 1532  service apache2 reload
+ 1533  uname -a
+ 1534  service apache2 reload
+ 1535  service apache2 restart
+ 1536  cd /var/www
+ 1537  ls
+ 1538  cp /home/sanjay/Ror/public_html/ .
+ 1539  ls
+ 1540  cp /home/sanjay/Ror/public_html/ 
+ 1541  cp /home/sanjay/Ror/public_html/ /var/www
+ 1542  cp -r /home/sanjay/Ror/public_html/ /var/www/
+ 1543  ls
+ 1544  cd public_html/
+ 1545  cd site/
+ 1546  ls
+ 1547  cd public/
+ 1548  ls
+ 1549  cd ../../
+ 1550  cd ..
+ 1551  rm -r public_html/
+ 1552  ls
+ 1553  rails new site
+ 1554  ls
+ 1555  cd site/
+ 1556  ls
+ 1557  cd public/
+ 1558  ls
+ 1559  rails s
+ 1560  cd /etc/apache2/sites-available
+ 1561  ls
+ 1562  vi site 
+ 1563  a2ensite site
+ 1564  vi site 
+ 1565  a2ensite site
+ 1566  service apache2 reload
+ 1567  service apache2 restart
+ 1568  cd ..
+ 1569  vi httpd.conf 
+ 1570  service apache2 reload
+ 1571  service apache2 restart
+ 1572  cd /home/sanjay/Ror/
+ 1573  cd public_html/
+ 1574  ls
+ 1575  rm -r site
+ 1576  rails new site -d mysql
+ 1577  cd site
+ 1578  ls
+ 1579  vi Gemfile
+ 1580  rails s
+ 1581  gedit /public_html/site/config/database.yml
+ 1582  ls
+ 1583  cd config/
+ 1584  ls
+ 1585  vi database.yml 
+ 1586  service apache2 reload
+ 1587  service apache2 restart
+ 1588  rails s
+ 1589  mysql -u root -op
+ 1590  mysql -u root -p
+ 1591  rails s
+ 1592  rails generate scaffold products title:string description:text price:decimal quantity:integer 
+ 1593  starts_at:datetime ends_at:datetime
+ 1594  rails generate scaffold products title:string description:text price:decimal quantity:integer starts_at:datetime ends_at:datetime
+ 1595  cd ../..
+ 1596  cd site
+ 1597  ls
+ 1598  cd app
+ 1599  ls
+ 1600  cd ..
+ 1601  ls
+ 1602  rake db:migrate
+ 1603  cd app
+ 1604  ls
+ 1605  cd models/
+ 1606  ls
+ 1607  vi product.rb 
+ 1608  cd ../view
+ 1609  cd ..
+ 1610  cd views/
+ 1611  ls
+ 1612  cd products/
+ 1613  ls
+ 1614  rails s
+ 1615  cd ../../../..
+ 1616  rails new rest_api -d mysql
+ 1617  cd rest_api/
+ 1618  ls
+ 1619  cd config/
+ 1620  ls
+ 1621  vi database.yml 
+ 1622  mysql -u root -p
+ 1623  cd ..
+ 1624  ls
+ 1625  vi Gemfile
+ 1626  rails generate scaffold employees name:string extension:integer starts_at:datetime ends_at:datetime
+ 1627  rake db:migrate
+ 1628  rails s
+ 1629  cd ..
+ 1630  rm -r rest_api/
+ 1631  rails new rest_api -d mysql
+ 1632  rails generate scaffold employees name:string extension:integer starts_at:datetime
+ 1633  rails s
+ 1634  cd config/
+ 1635  vi database.yml 
+ 1636  rails s
+ 1637  rake db:migrate
+ 1638  rails s
+ 1639  cd ../public/
+ 1640  ls
+ 1641  cd ..
+ 1642  ls
+ 1643  cd public/
+ 1644  ls
+ 1645  mkdir stylesheets
+ 1646  cd stylesheets/
+ 1647  vi rest_api.css
+ 1648  cd ../..
+ 1649  cd app/views/layouts/
+ 1650  vi application.html.erb 
+ 1651  rails s
+ 1652  vi application.html.erb 
+ 1653  rails s
+ 1654  cd ..
+ 1655  ls
+ 1656  cd ..
+ 1657  cd public/
+ 1658  ls
+ 1659  cd stylesheets/
+ 1660  ls
+ 1661  vi rest_api.css 
+ 1662  cd ..
+ 1663  ls
+ 1664  cd ..
+ 1665  ls
+ 1666  curl http://localhost:3000/employees.xml
+ 1667  ls
+ 1668  locate employees.xml
+ 1669  vi employees.xml
+ 1670  ls
+ 1671  touch employees.xml
+ 1672  curl http://localhost:3000/employees.xml
+ 1673  vi employees.xml 
+ 1674  rm employees.xml 
+ 1675  chown -R root:root /usr/local/rvm
+ 1676  rvm install 1.9.3
+ 1677  ruby -v
+ 1678  source "/usr/local/rvm/scripts/rvm"
+ 1679  rvm --default use 1.9.3
+ 1680  gem install rails
+ 1681  which ruby
+ 1682  which bundle
+ 1683  cd /home/sanjay/Ror/
+ 1684  ls
+ 1685  rails new site
+ 1686  bundle show site
+ 1687  cd site
+ 1688  bundle show site
+ 1689  bundle show
+ 1690  rails s
+ 1691  apt-get install libmysql-ruby
+ 1692  gem install mysql2
+ 1693  irb
+ 1694  apt-get install mysql-server mysql-client mysql-admin libmysqlclient-dev
+ 1695  apt-get install mysql-server mysql-client libmysqlclient-dev
+ 1696  gem install mysql2
+ 1697  irb
+ 1698  apache2 -v
+ 1699  gem update
+ 1700  gem -v
+ 1701  gem install passenger
+ 1702  passenger -v
+ 1703  passenger-install-apache2-module
+ 1704  apt-get install libcurl4-openssl-dev
+ 1705  passenger-install-apache2-module
+ 1706  apt-get install libapr1-dev
+ 1707  passenger-install-apache2-module
+ 1708  apt-get install libapr1-dev
+ 1709  apt-get install libaprutil1-dev
+ 1710  passenger-install-apache2-module
+ 1711  apt-get install libapr1-dev
+ 1712  apt-get install apache2-prefork-dev
+ 1713  passenger-install-apache2-module
+ 1714  start apache2
+ 1715  restart /etc/apache2
+ 1716  cd /etc/apache2/
+ 1717  ls
+ 1718  service apache2 restart
+ 1719  cd /home/sanjay/Ror/
+ 1720  mkdir public_html
+ 1721  cd public_html/
+ 1722  rails new site
+ 1723  cd site
+ 1724  rails s
+ 1725  cd /etc/apache2/sites-available/
+ 1726  vi site
+ 1727  a2ensite site
+ 1728  service apache2 reload
+ 1729  vi site 
+ 1730  a2ensite site
+ 1731  service apache2 reload
+ 1732  vi site 
+ 1733  cd /site
+ 1734  cd /home/sanjay/Ror/site/public/
+ 1735  ls
+ 1736  service apache2 reload
+ 1737  cd /etc/apache2/sites-available/
+ 1738  vi site 
+ 1739  service apache2 reload
+ 1740  service apache2 start
+ 1741  service apache2 stop
+ 1742  ls
+ 1743  vi default
+ 1744  ls
+ 1745  rm site
+ 1746  a2ensite
+ 1747  service apache2 restart
+ 1748  cd ..
+ 1749  ls
+ 1750  vi apache2.conf
+ 1751  service apache2 restart
+ 1752  a2ensite
+ 1753  a2ensite 
+ 1754  service apache2 load
+ 1755  service apache2 reload
+ 1756  a2dissite site
+ 1757  service apache2 reload
+ 1758  service apache2 restart
+ 1759  cd sites-available/
+ 1760  vi default
+ 1761  gedit default
+ 1762  service apache2 restart
+ 1763  service apache2 reload
+ 1764  service apache2 restart
+ 1765  service apache2 reload
+ 1766  service apache2 restart
+ 1767  vi site
+ 1768  a2ensite site
+ 1769  service apache2 reload
+ 1770  vi site
+ 1771  a2ensite site
+ 1772  service apache2 reload
+ 1773  service apache2 restart
+ 1774  ls
+ 1775  rm trac~
+ 1776  rm default~
+ 1777  ls
+ 1778  vi default-ssl
+ 1779  ifconfig
+ 1780  ping 10.0.2.15
+ 1781  mysql -u root -p
+ 1782  cd /home/sanjay/Ror/public_html/
+ 1783  ls
+ 1784  cd rest_api/
+ 1785  rails s
+ 1786  lightdm
+ 1787  reboot
+ 1788  startx
+ 1789  reboot
+ 1790  lightdm
+ 1791  cd /home/sanjay/Ror/public_html/rest_api/
+ 1792  ls
+ 1793  cd config/
+ 1794  ls
+ 1795  cd ..
+ 1796  cd app
+ 1797  ls
+ 1798  cd assets/
+ 1799  ls
+ 1800  cd stylesheets/
+ 1801  ls
+ 1802  cd ..
+ 1803  cd ../../../
+ 1804  find . -name *.xml -print
+ 1805  find /home/sanjay/Ror/public_html/* -name *.xml -print
+ 1806  ls
+ 1807  find /home/sanjay/Ror/public_html/* -name site -print
+ 1808  find /home/sanjay/Ror/public_html/* -name Rakefile -print
+ 1809  find /home/sanjay/Ror/public_html/* -name *.xml -print
+ 1810  vi update.xml
+ 1811  curl -v -H "Content-Type: application/xml; charset=utf8" -T update.xml http://localhost:3000/employees/1.xml
+ 1812  ls
+ 1813  mysql -u -p
+ 1814  mysql -u root -p
+ 1815  cd ~
+ 1816  ls
+ 1817  pwd
+ 1818  cd /home/sanjay/Ror/public_html/rest_api/
+ 1819  ls
+ 1820  rails s
+ 1821  cd ls
+ 1822  pwd
+ 1823  ls
+ 1824  cd ..
+ 1825  cd rest_api/
+ 1826  ls
+ 1827  cd ..
+ 1828  mv new.xml rest_api/
+ 1829  mv update.xml rest_api/
+ 1830  ls
+ 1831  mv api.rb rest_api/lib/
+ 1832  mv api_client.rb rest_api/
+ 1833  cd rest_api/
+ 1834  ruby api_client.rb 
+ 1835  vi api_client.rb 
+ 1836  ruby api_client.rb 
+ 1837  rake doc:app
+ 1838  cd doc/app/
+ 1839  ls
+ 1840  vi Api.html 
+ 1841  rake routes
+ 1842  cd /home/sanjay/Ror/public_html/rest_api/
+ 1843  ls
+ 1844  cd ..
+ 1845  mv update.xml rest_api/
+ 1846  ls
+ 1847  cd rest_api/
+ 1848  vi update.xml 
+ 1849  curl -v -H "Content-Type: application/xml; charset=utf8" -T update.xml http://localhost:3000/employees/3.xml
+ 1850  vi update.xml 
+ 1851  curl -v -H "Content-Type: application/xml; charset=utf8" -T update.xml http://localhost:3000/employees/2.xml
+ 1852  curl http://localhost:3000/employees/1.xml
+ 1853  ls
+ 1854  vi new.xml
+ 1855  curl -v -H "Content-Type: application/xml; charset=utf-8" --data-ascii @new.xml http://localhost:3000/employees.xml
+ 1856  vi update.xml
+ 1857  curl -v -H "Content-Type: application/xml; charset=utf8" -T update.xml http://localhost:3000/employees/1.xml
+ 1858  vi update.xml
+ 1859  curl -v -H "Content-Type: application/xml; charset=utf8" -T update.xml http://localhost:3000/employees/1.xml
+ 1860  cd lib/
+ 1861  ls
+ 1862  vi api.rb
+ 1863  cd ..
+ 1864  vi api_client.rb
+ 1865  ruby api_client.rb 
+ 1866  apt-get install nokogiri
+ 1867  gem install nokogiri
+ 1868  ruby api_client.rb 
+ 1869  ls
+ 1870  mv *.xml /home/sanjay/Ror/public_html/
+ 1871  ls
+ 1872  cd ..
+ 1873  ls
+ 1874  cd rest_api/
+ 1875  ls
+ 1876  cd lib/
+ 1877  ls
+ 1878  mv api.rb /home/sanjay/Ror/public_html/
+ 1879  cd ..
+ 1880  ls
+ 1881  mv api_client.rb /home/sanjay/Ror/public_html/
+ 1882  cd public/stylesheets/
+ 1883  ls
+ 1884  mv rest_api.css /home/sanjay/Ror/public_html/
+ 1885  cd ../..
+ 1886  cd app/views/layouts/
+ 1887  mv application.html.erb /home/sanjay/Ror/public_html/
+ 1888  cd ../../..
+ 1889  cd ..
+ 1890  ls
+ 1891  rm -r rest_api
+ 1892  rails new rest_api -d mysql
+ 1893  cd rest_api/config/
+ 1894  vi database.yml 
+ 1895  rails generate scaffold employee name:string extension:integer
+ 1896  rake db:migrate
+ 1897  cd ..
+ 1898  cd rest_api/public/
+ 1899  ls
+ 1900  mkdir stylesheets
+ 1901  cd ../..
+ 1902  ls
+ 1903  mv rest_api.css rest_api/public/stylesheets/
+ 1904  ls
+ 1905  mv application.html.erb rest_api/app/views/layouts/
+ 1906  ls
+ 1907  cd rest_api/
+ 1908  rails s
+ 1909  cat /etc/X11/default-display-manager
+ 1910  vi /etc/X11/default-display-manager
+ 1911  locate lightdm
+ 1912  which lightdm
+ 1913  vi /etc/X11/default-display-manager
+ 1914  reboot
+ 1915  logout
+ 1916  reboot
+ 1917  ls
+ 1918  mvird
+ 1919  alias
+ 1920  vi /root/.bashrc 
+ 1921  rails new .
+ 1922  cd /home/sanjay/Downloads/Aptana_Studio_3/
+ 1923  ./AptanaStudio3 
+ 1924  exit
+ 1925  cd /home/sanjay/Ror/
+ 1926  git status
+ 1927  ls a-l
+ 1928  ls -al
+ 1929  vi .git
+ 1930  cd .git/
+ 1931  ls
+ 1932  cd branches/
+ 1933  ls
+ 1934  cd ..
+ 1935  ls
+ 1936  ls -al
+ 1937  rm -r .git
+ 1938  cd site
+ 1939  shutdown -h now
+ 1940  mvird
+ 1941  cd /home/sanjay/winshare/
+ 1942  ls
+ 1943  cd docs/
+ 1944  cd floreantpos/
+ 1945  ls
+ 1946  ./start-server.sh
+ 1947  wget -qO- https://toolbelt.heroku.com/install.sh | sh
+ 1948  gem install heroku foreman
+ 1949  heroku login
+ 1950  apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \
+ 1951  apt-get install libcurl4-gnutls-dev libexpat1-dev gettext libz-dev libssl-dev
+ 1952  apt-get install git-core
+ 1953  apt-get install gvim
+ 1954  git config --global user.name "sanjay sengupta"
+ 1955  git config --global user.email szs2104@gmail.com
+ 1956  git config --global alias.co checkout
+ 1957  apt-get install vim-gtk
+ 1958  gvim
+ 1959  git config --global core.editor "gvim -f"
+ 1960  cd /home/sanjay/Ror/
+ 1961  git init
+ 1962  ls
+ 1963  git add site
+ 1964  cd ..
+ 1965  ls
+ 1966  cd Ror/site/
+ 1967  git .
+ 1968  git add .
+ 1969  git status
+ 1970  git status > a
+ 1971  gvim a
+ 1972  rm a
+ 1973  git commit -m "Initial commit"
+ 1974  git log
+ 1975  ls
+ 1976  cd ..
+ 1977  ls
+ 1978  ls -l
+ 1979  cd site
+ 1980  git remote add origin git@github.com:szs2104/site.git
+ 1981  push -u origin master
+ 1982  git push -u origin master
+ 1983  ls -al
+ 1984  git status
+ 1985  cd c../..
+ 1986  cd ../../..
+ 1987  cd sanjay/Downloads/
+ 1988  tar -zxvf smartgit-generic-3_0_7.tar.gz 
+ 1989  cd smartgit-3_0_7/
+ 1990  ls
+ 1991  cd bin/
+ 1992  ls
+ 1993  cd ..
+ 1994  ls
+ 1995  gvim quick-start-guide.pdf
+ 1996  cd bin/
+ 1997  ls
+ 1998  ./smartgit.sh 
+ 1999  java -version
+ 2000  apt-get install sun-java7-bin
+ 2001  vim /etc/apt/sources.list
+ 2002  apt-get install sun-java7-bin
+ 2003  apt-get update
+ 2004  apt-get install sun-java6-bin
+ 2005  apt-get install sun-java7-bin
+ 2006  apt-get install sun-java-bin
+ 2007  jave -version
+ 2008  java -version
+ 2009  git commit -a -m "Changed the database.yml file and the gem file to add mysql support and remove the sqlite installation"
+ 2010  cd /home/sanjay/Ror/site/
+ 2011  git commit -a -m "Changed the database.yml file and the gem file to add mysql support and remove the sqlite installation"
+ 2012  git push
+ 2013  ls
+ 2014  vi Rakefile 
+ 2015  vi Gemfile
+ 2016  cd db
+ 2017  ls
+ 2018  vi development.sqlite3 
+ 2019  cd ..
+ 2020  bundle install
+ 2021  git push
+ 2022  git push heroku master
+ 2023  ls
+ 2024  vi Gemfile
+ 2025  vi Gemfile.lock 
+ 2026  rm Gemfile.lock 
+ 2027  bundle install --without production
+ 2028  git add .
+ 2029  git commit -am "bundle updating sqlite3"
+ 2030  git push heroku master
+ 2031  vi Gemfile
+ 2032  cd config/
+ 2033  ls
+ 2034  vi database.yml 
+ 2035  cd ..
+ 2036  vi Gemfile
+ 2037  cd ../..
+ 2038  cd Ror/public_html/site/
+ 2039  ls
+ 2040  vi Gemfile
+ 2041  cd ../..
+ 2042  cd site/
+ 2043  vi Gemfile
+ 2044  git commit -a -m "changed the Gemfile"
+ 2045  git push
+ 2046  git push heroku master
+ 2047  git add Gemfile
+ 2048  git commit -m "Removed sqlite3 from Gemfile"
+ 2049  git push heroku master
+ 2050  ls -al
+ 2051  cd config/
+ 2052  ls
+ 2053  vi application.rb 
+ 2054  cd ..
+ 2055  ls
+ 2056  find / -name extconf.rb -print
+ 2057  git push heroku master
+ 2058  cd /usr/local/bin/ruby
+ 2059  cd /usr/local/bin/
+ 2060  ls
+ 2061  cd /home/sanjay/Ror/
+ 2062  cd sitq
+ 2063  cd site
+ 2064  ls
+ 2065  vi config
+ 2066  vi config.ru 
+ 2067  cd config/
+ 2068  ls
+ 2069  cd initializers/
+ 2070  ls
+ 2071  cd ..
+ 2072  vi boot.rb 
+ 2073  ls
+ 2074  vi routes.rb 
+ 2075  cd initializers/
+ 2076  ls
+ 2077  vi wrap_parameters.rb 
+ 2078  vi session_store.rb 
+ 2079  ls
+ 2080  vi inflections.rb 
+ 2081  cd ..
+ 2082  ls
+ 2083  cd environments/
+ 2084  ls
+ 2085  vi development.rb 
+ 2086  vi production.rb 
+ 2087  git push heroku master
+ 2088  vi /tmp/build_3pqwkswuvvcl0/vendor/bundle/ruby/1.9.1/gems/sqlite3-1.3.6/ext/sqlite3/gem_make.out
+ 2089  cd ../..
+ 2090  ls
+ 2091  cd log/
+ 2092  ls
+ 2093  vi development.log 
+ 2094  cd app
+ 2095  cd ../app/
+ 2096  ls
+ 2097  cd ..
+ 2098  git push heroku master
+ 2099  ls
+ 2100  cd script/
+ 2101  ls
+ 2102  cd rails
+ 2103  vi rails 
+ 2104  cd ..
+ 2105  ls 
+ 2106  cd db
+ 2107  ls
+ 2108  vi development.sqlite3 
+ 2109  vi seeds.rb 
+ 2110  cd ..
+ 2111  rm Gemfile.lock 
+ 2112  vi Gemfile 
+ 2113  bundle install
+ 2114  git push heroku master
+ 2115  git git commit -a -m "Changed GemFile.lock"
+ 2116  git commit -a -m "Changed GemFile.lock"
+ 2117  git push
+ 2118  git push heroku master
+ 2119  ls
+ 2120  ls a-l
+ 2121  ls -al
+ 2122  vi .gitignore 
+ 2123  git commit -a -m "Commented Sqlite reference in .gitignore"
+ 2124  git push
+ 2125  git status
+ 2126  git push heroku master
+ 2127  bundle install --without development:test --path vendor/bundle --binstubs bin/ --deployment
+ 2128  git push heroku master
+ 2129  ls
+ 2130  cd log
+ 2131  ls
+ 2132  vi development.log 
+ 2133  ls
+ 2134  ls -l
+ 2135  cd ..
+ 2136  ls
+ 2137  cd config/
+ 2138  lds
+ 2139  Cls
+ 2140  ls
+ 2141  vi application.rb 
+ 2142  vi environment.rb 
+ 2143  cd environments/
+ 2144  ls
+ 2145  vi development.rb 
+ 2146  vi production.rb 
+ 2147  cd ..
+ 2148  ls
+ 2149  cd initializers/
+ 2150  ls
+ 2151  cd ..
+ 2152  cd initializers/
+ 2153  ls
+ 2154  cd ..
+ 2155  grep "sqlite*" .
+ 2156  grep "sqlite*" *
+ 2157  grep 'sqlite' *
+ 2158  cd ..
+ 2159  grep 'sqlite' *
+ 2160  grep -rl "sqlite" /site
+ 2161  grep -rl "sqlite" site
+ 2162  grep -rl "sqlite" site > a
+ 2163  vi a
+ 2164  rails new rest_api –d mysql
+ 2165  cd rest_api/config/
+ 2166  vi database.yml 
+ 2167  cd ../..
+ 2168  ls
+ 2169  rm -r rest_api/
+ 2170  rails new rest_api –d mysql
+ 2171  bundle show
+ 2172  cd rest_api/
+ 2173  bundle show
+ 2174  apt-get install mysql-server mysql-client mysql-admin libmysqlclient-dev
+ 2175  service mysql stop
+ 2176  service mysql start
+ 2177  apt-get install libmysql-ruby
+ 2178  gem install mysql2  
+ 2179  irb
+ 2180  cd ..
+ 2181  rm -r rest_api/
+ 2182* rails new rest_api –d mysql[B
+ 2183  rub -v
+ 2184  ruby -v
+ 2185  cd rest_api/config/
+ 2186  vi database.yml 
+ 2187  cd ..
+ 2188  vi Gemfile
+ 2189  cd ..
+ 2190  rm -r wishadish/
+ 2191  rm -r rest_api/
+ 2192  rails new testrails -d mysql
+ 2193  rails -v
+ 2194  cd testrails/
+ 2195  bundle show
+ 2196  cd config/
+ 2197  ls
+ 2198  vi database.yml 
+ 2199  bundle install
+ 2200  rails server
+ 2201  vi database.yml 
+ 2202  rails server
+ 2203  mysql -u root -p
+ 2204  rails server
+ 2205  cd ..
+ 2206  git init
+ 2207  git add .
+ 2208  git commit -m "Adding files"
+ 2209  touch README
+ 2210  git add README
+ 2211  git commit README
+ 2212  git remote add origin https://github.com/szs2104/testrails.git
+ 2213  git push -u origin master
+ 2214  heroku login
+ 2215  heroku addons:add cleardb:ignite
+ 2216  ls
+ 2217  heroku create
+ 2218  git remote -v
+ 2219  git remote add heroku git@heroku.com:testrails.git
+ 2220  git push heroku master
+ 2221  heroku info --app appname
+ 2222  heroku info --app testrails
+ 2223  heroku addons:add cleardb:ignite
+ 2224  heroku addons:docs cleardb:ignite
+ 2225  gedit /usr/bin google-chrome
+ 2226  heroku open
+ 2227  vi /opt/google/chrome/google-chrome
+ 2228  heroku open
+ 2229  heroku config | grep CLEARDB_DATABASE_URL
+ 2230  heroku config:add DATABASE_URL='mysql2://b3378a7f71b19c:fe7f97c8@us-cdbr-east.cleardb.com/heroku_95c646120db1dd3'
+ 2231  heroku open
+ 2232  heroku config:add DATABASE_URL='mysql2://b3378a7f71b19c:fe7f97c8@us-cdbr-east.cleardb.com/heroku_95c646120db1dd3?reconnect=true'
+ 2233  heroku open
+ 2234  history > a
